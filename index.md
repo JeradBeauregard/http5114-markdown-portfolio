@@ -24,7 +24,7 @@ free or open source education.
 ![portrait](./images/jerx-beauregard-self-portrait-icon.jpg)
 
 ## Gallery ##
-| | |
+|![image1](./images/jerx-beauregard-charater-walk-boy.jpg) |![image2](./images/jerx-beauregard-lorayn-final.jpg) |
 |------------------------|---------------------------|
-|![image1](./images/jerx-beauregard-goblin-self-jan-final-piece-flat.jpg) | ![image2](./images/jerx-beauregard-shaman-woman-portrait-edit.jpg) |
+|[image3](./images/jerx-beauregard-goblin-self-jan-final-piece-flat.jpg) | [image4](./images/jerx-beauregard-shaman-woman-portrait-edit.jpg) |
 

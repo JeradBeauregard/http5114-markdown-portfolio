@@ -26,5 +26,5 @@ free or open source education.
 ## Gallery ##
 
 |------------------------|---------------------------|
-|[image1](./images/jerx-beauregard-goblin-self-jan-final-piece-flat.jpg) | [image2](./images/jerx-beauregard-shaman-woman-portrait-edit.jpg) |
+|![image1](./images/jerx-beauregard-goblin-self-jan-final-piece-flat.jpg) | ![image2](./images/jerx-beauregard-shaman-woman-portrait-edit.jpg) |
 
